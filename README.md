@@ -15,7 +15,8 @@ README.md  # Readme file
 src # src for python scripts
 ├── License  # License File, MIT license
 ├── <experiment.py> # Experimeent to exectue
-└── ...
+├──  ... # Other experiments
+└── requeriments.txt #Requeriments for experiments
 ```
 
 ## How To Use
